@@ -1,4 +1,11 @@
-### Hi there 👋
+### Howdy y'all
+
+## Currently working on:
+Getting a job after graduation 2024
+
+## Currently reading:
+- Pragmatic Programmer
+- Circe
 
 <!--
 **Panabana/Panabana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
