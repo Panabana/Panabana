@@ -1,7 +1,9 @@
-### Howdy y'all
+# Alex B. aka Panabana
+**Howdy y'all** Thanks for checking out my account. Here's a little bit about me:
 
 ## Currently working on:
-Getting a job after graduation 2024
+- Getting a job after graduation in June 2024
+- Modding a more accurate market economy simulation into Starsector
 
 ## Currently reading:
 - Pragmatic Programmer
