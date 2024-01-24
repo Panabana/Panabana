@@ -8,6 +8,13 @@
 ## Currently reading:
 - Pragmatic Programmer
 - Circe
+- House of Leaves
+- The Phoenix Project
+- The Edward Snowden Affair
+
+## Recommending:
+- Blood, Sweat, and Pixels
+- The Song of Achilles
 
 <!--
 **Panabana/Panabana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
